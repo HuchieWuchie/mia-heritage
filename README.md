@@ -8,8 +8,7 @@ The dataset can either be donwloaded in their original format from the links in 
 |  Point cloud | No. of points  | License  | Link  |
 |---|---|---|---|
 | water_moon  | 5,900,000  | CC0 Public Domain  | https://sketchfab.com/3d-models/12th-c-ce-water-moon-guanyin-point-cloud-996ce4d6401445ac9c26f927770df851  | 
-| swahili_staff  | 1,100,000  | CC0 Public Domain  | https://sketchfab.com/3d-models/swahili-staff-point-cloud-62ee6bb54f3341e987d70c733ea639bd
-  |
+| swahili_staff  | 1,100,000  | CC0 Public Domain  | https://sketchfab.com/3d-models/swahili-staff-point-cloud-62ee6bb54f3341e987d70c733ea639bd |
 | prosperity_gate  | 6,900,000  | CC Attribution-NonCommercial-ShareAlike  | https://sketchfab.com/3d-models/humility-brings-prosperity-gate-point-cloud-68ba9abd86ea4491918e7b9e6949cb9e |
 
 ## Table 2.
