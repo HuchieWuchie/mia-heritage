@@ -3,6 +3,19 @@ MIA-Heritage is a collection of 3 pieces of artwork scanned and provided in the 
 
 The dataset can either be donwloaded in their original format from the links in Table 1 or, or they can be downloaded in .ply format voxilized with a bit depth of 10, see Table 2.
 
+## How to voxilize:
+
+The dataset can be voxlized using the converter.py script
+
+---
+```
+python3 converter.py --input [path to file or folder] --voxel_bit_depth [integer]
+
+[optional]
+--saveVideo saves a video to output/codec/quality/.mp4 it is quite slow to run
+--debug (python3 run.py --codec CODEC_HERE --quality QUALITY --debug)
+```
+
 ## Table 1.
 
 |  Point cloud | No. of points  | License  | Link  |
