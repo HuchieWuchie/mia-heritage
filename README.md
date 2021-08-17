@@ -15,6 +15,6 @@ The dataset can either be donwloaded in their original format from the links in 
 
 |  Point cloud | No. of points  | License  | |
 |---|---|---|---|
-| water_moon_vox10_0001.ply  | 2,051,364  | CC0 Public Domain  | <img src="figures/water_moon.png" width="150" title="hover text"> |
-| swahili_staff_vox10_0001.ply  | 282,629  | CC0 Public Domain  | ![Alt text](figures/swahili_staff.png?raw=true "Title") |
-| prosperity_gate_vox10_0001.ply  | 2,017,477  | CC Attribution-NonCommercial-ShareAlike  |  ![Alt text](figures/prosperity_gate.png?raw=true "Title") |
+| water_moon_vox10_0001.ply  | 2,051,364  | CC0 Public Domain  | <img src="figures/water_moon.png" width="200" title="hover text"> |
+| swahili_staff_vox10_0001.ply  | 282,629  | CC0 Public Domain  | <img src="figures/swahili_staff.png" width="200" title="hover text">  |
+| prosperity_gate_vox10_0001.ply  | 2,017,477  | CC Attribution-NonCommercial-ShareAlike  |  <img src="figures/prosperity_gate.png" width="200" title="hover text">  |
