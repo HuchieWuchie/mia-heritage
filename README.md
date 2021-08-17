@@ -1,5 +1,5 @@
 # mia-heritage
-MIA-Heritage is a collection of 3 pieces of artwork scanned and provided in the format of point clouds from the Minneapolis Institute of Art. This dataset was collected from point clouds made publicly available through sketchfab.com with the intention of working as a benchmark dataset for point cloud compression technologies.  All credits goes to the Minneapolis Institute of Art . 
+MIA-Heritage is a collection of 3 pieces of artwork scanned and provided in the format of point clouds from the Minneapolis Institute of Art. This dataset was collected from point clouds made publicly available through sketchfab.com with the intention of working as a benchmark dataset for point cloud compression technologies.  All credits goes to the Minneapolis Institute of Art (https://new.artsmia.org/). 
 
 The dataset can either be donwloaded in their original format from the links in Table 1 or, or they can be downloaded in .ply format voxilized with a bit depth of 10, see Table 2.
 
