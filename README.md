@@ -10,10 +10,6 @@ The dataset can be voxlized using the converter.py script
 ---
 ```
 python3 converter.py --input [path to file or folder] --voxel_bit_depth [integer]
-
-[optional]
---saveVideo saves a video to output/codec/quality/.mp4 it is quite slow to run
---debug (python3 run.py --codec CODEC_HERE --quality QUALITY --debug)
 ```
 
 ## Table 1.
