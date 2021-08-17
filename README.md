@@ -3,6 +3,15 @@ MIA-Heritage is a collection of 3 pieces of artwork scanned and provided in the 
 
 The dataset can either be donwloaded in their original format from the links in Table 1 or, or they can be downloaded in .ply format voxilized with a bit depth of 10, see Table 2.
 
+## How to voxilize:
+
+The dataset can be voxlized using the converter.py script
+
+---
+```
+python3 converter.py --input [path to file or folder] --voxel_bit_depth [integer]
+```
+
 ## Table 1.
 
 |  Point cloud | No. of points  | License  | Link  |
@@ -13,8 +22,8 @@ The dataset can either be donwloaded in their original format from the links in 
 
 ## Table 2.
 
-|  Point cloud | No. of points  | License  |
-|---|---|---|
-| water_moon_vox10_0001.ply  | 2,051,364  | CC0 Public Domain  | 
-| swahili_staff_vox10_0001.ply  | 282,629  | CC0 Public Domain  |
-| prosperity_gate_vox10_0001.ply  | 2,017,477  | CC Attribution-NonCommercial-ShareAlike  | 
+|  Point cloud | No. of points  | License  | |
+|---|---|---|---|
+| water_moon_vox10_0001.ply  | 2,051,364  | CC0 Public Domain  | <img src="figures/water_moon.png" width="200" title="hover text"> |
+| swahili_staff_vox10_0001.ply  | 282,629  | CC0 Public Domain  | <img src="figures/swahili_staff.png" width="200" title="hover text">  |
+| prosperity_gate_vox10_0001.ply  | 2,017,477  | CC Attribution-NonCommercial-ShareAlike  |  <img src="figures/prosperity_gate.png" width="200" title="hover text">  |
